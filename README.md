@@ -16,7 +16,9 @@
 ##  📖 Publications
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
-
+##  🕸️ Hackathons
+   - Devpost : https://devpost.com/rinisvs
+   - Kaggle : https://www.kaggle.com/rinisvs
   
 ##  ⚡ Interests:
    - 🖋️ Blogging -
