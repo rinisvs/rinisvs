@@ -1,5 +1,4 @@
-![20240620_124137](https://github.com/user-attachments/assets/9966894b-fe0f-40ba-a4ba-d10e8c754720)
-
+![20240621_173924](https://github.com/user-attachments/assets/5edba458-df18-413f-a6a2-eb700025f067)
 
 ## Hi👋 !! Rini here 🦸‍♀️
 
