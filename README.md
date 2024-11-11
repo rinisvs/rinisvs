@@ -29,7 +29,7 @@
   - 📹 Photography - 
     Canva: https://rinisvs.my.canva.site/ ,
     Unsplash : https://unsplash.com/@rinisvs
-  - 🪡 Crocheting
+  - 🪡 Crocheting -
     Instagram : https://www.instagram.com/rinisvs
      
 
