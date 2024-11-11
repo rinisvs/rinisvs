@@ -1,4 +1,5 @@
-![IMG_0328](https://github.com/user-attachments/assets/14054024-4e84-49c0-b76f-5a6bc47f4dba)
+![20240621_173924](https://github.com/user-attachments/assets/5edba458-df18-413f-a6a2-eb700025f067)
+
 
 ## Hi👋 !! Rini here 🦸‍♀️
 
