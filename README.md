@@ -11,6 +11,7 @@
 - 🌱 Interested in learning new technologies and recently begun exploring Artificial Intelligence
 - ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 🔭 I’m currently into Machine Learning and Computer Vision projects
+- 📗 AI Academic Portfolio : https://eportfolio.mygreatlearning.com/rini-susan-vijayakumar-senlakumari
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
 
 
