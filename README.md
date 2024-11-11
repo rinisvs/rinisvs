@@ -9,7 +9,7 @@
 - ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 🔭 I’m currently into Machine Learning and Computer Vision projects
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
--
+
 
 - 🎙️ Conference
    -   PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
@@ -20,10 +20,10 @@
   
 - ⚡ Interests:
    - 🖋️ Blogging
-        Medium : https://medium.com/@rinisusan.vs
+     Medium : https://medium.com/@rinisusan.vs
   - 📹 Photography
-        Canva: https://rinisvs.my.canva.site/ 
-        Unsplash : https://unsplash.com/@rinisvs
+    Canva: https://rinisvs.my.canva.site/ 
+    Unsplash : https://unsplash.com/@rinisvs
   - 🪡 Crocheting
      
 
