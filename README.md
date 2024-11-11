@@ -6,15 +6,22 @@
 
 - 🖥️ Software Performance Testing professional with more than 14 years of industry experience
 - 🌱 Interested in learning new technologies and recently begun exploring Artificial Intelligence
+- ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 🔭 I’m currently into Machine Learning and Computer Vision projects
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
+
+- 🎙️ Conference
+  - PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+- 📖 Publications
+  - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
+  - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
   
 - ⚡ Interests:
    - 🖋️ Blogging
-     -  Medium   : https://medium.com/@rinisusan.vs
+     -  Medium : https://medium.com/@rinisusan.vs
   - 📹 Photography
-     -  Canva : https://rinisvs.my.canva.site/
+     -  Canva: https://rinisvs.my.canva.site/
      -  Unsplash : https://unsplash.com/@rinisvs
   - 🪡 Crocheting
-     -  Instagram : https://www.instagram.com/rinisvs
+     
 
