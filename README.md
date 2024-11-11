@@ -11,17 +11,17 @@
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
 
 - 🎙️ Conference
-  - PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+      PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
 - 📖 Publications
-  - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
-  - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
+     Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
+     Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
   
 - ⚡ Interests:
    - 🖋️ Blogging
-     -  Medium : https://medium.com/@rinisusan.vs
+        Medium : https://medium.com/@rinisusan.vs
   - 📹 Photography
-     -  Canva: https://rinisvs.my.canva.site/
-     -  Unsplash : https://unsplash.com/@rinisvs
+        Canva: https://rinisvs.my.canva.site/
+        Unsplash : https://unsplash.com/@rinisvs
   - 🪡 Crocheting
      
 
