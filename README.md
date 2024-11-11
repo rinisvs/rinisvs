@@ -9,16 +9,16 @@
 - ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 🔭 I’m currently into Machine Learning and Computer Vision projects
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
-\n
 
-- 🎙️ Conference
+
+## - 🎙️ Conference
    -   PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
-- 📖 Publications
+## - 📖 Publications
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
 
   
-- ⚡ Interests:
+## - ⚡ Interests:
    - 🖋️ Blogging -
      Medium : https://medium.com/@rinisusan.vs
   - 📹 Photography - 
