@@ -6,7 +6,7 @@
 **rinisvs/rinisvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🖥️ Software Performance Testing professional with more than 14 years of industry experience
+- 🖥️ Software Performance Testing professional with more than 14 years of Quality Engineering experience
 - ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 🌱 Interested in learning new technologies and recently begun exploring Artificial Intelligence
 - 🔭 Currently into Machine Learning and Generative AI projects
