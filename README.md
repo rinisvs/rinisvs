@@ -21,7 +21,7 @@
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
    - AWS Community Blog : https://community.aws/content/2cQ88tNcMrdqc3AN99VxELlZQDu/everyday-senior-companion
 ##  🎙️ Opensource Contributions
-   -   Postman tool performance testing feature enhancement: https://github.com/postmanlabs/postman-app-support/issues/12744
+   -   Postman API tool - performance testing feature enhancement: https://github.com/postmanlabs/postman-app-support/issues/12744
 ##  🕸️ Hackathons
    - Devpost : https://devpost.com/rinisvs
    - Kaggle : https://www.kaggle.com/rinisvs
