@@ -25,7 +25,12 @@
 ##  🕸️ Hackathons
    - Devpost : https://devpost.com/rinisvs
    - Kaggle : https://www.kaggle.com/rinisvs
-  
+##  🏆 Honors & Awards 
+   - Speaker at 42nd Pacific Northwest Software Quality Conference [2024] : https://pnsqc.org/rini_susan_v_s_2024.php
+   - Finalist of 'The RisingSTAR Award' at EuroSTAR Conference [2024] : https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2024/
+   - Bonus Blog Post Award in 'PartyRock Generative AI Hackathon' by Amazon Web Services [2024] : https://devpost.com/software/curious_techie
+   - First Prize in Writer's Bloc 2014, [a technical writing competition held by the Infosys Knowledge Management team] at Infosys Trivandrum Development Center
+
 ##  ⚡ Interests:
    - 🖋️ Blogging -
      Medium : https://medium.com/@rinisusan.vs
