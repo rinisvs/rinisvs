@@ -15,7 +15,7 @@
 
 
 ##  🎙️ Conference
-   -   PNSQC 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+   -   Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
