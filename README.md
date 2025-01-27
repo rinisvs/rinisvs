@@ -30,6 +30,8 @@
    - Finalist of 'The RisingSTAR Award' at EuroSTAR Conference [2024] : https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2024/
    - Bonus Blog Post Award in 'PartyRock Generative AI Hackathon' by Amazon Web Services [2024] : https://devpost.com/software/curious_techie
    - First Prize in Writer's Bloc 2014, [a technical writing competition held by the Infosys Knowledge Management team] at Infosys Trivandrum Development Center
+   - **Infosys Merit Awards**:  RISE Award for Hi-Flier at Onsite [2021] | IVS Spartan Award [2019] | IVS Insta Award [2018] | Zero Distance Innovation Award [2016] |
+     Most Valuable Player Award [2015] | Team Player Award [2012] 
 
 ##  ⚡ Interests:
    - 🖋️ Blogging -
