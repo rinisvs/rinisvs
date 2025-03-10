@@ -6,10 +6,10 @@
 **rinisvs/rinisvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🖥️ Software professional with more than 14 years of Quality Engineering experience specialized in Performance Testing and Engineering
-- ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
-- 🌱 Interested in learning new technologies and exploring the field of Artificial Intelligence
+- 🖥️ Software Quality Engineering professional specialized in Performance Testing and Engineering
+- 🌱 Interested in continuous learning and exploring new technologies the field of Artificial Intelligence
 - 🔭 Currently into Machine Learning model evaluations and Generative AI projects
+- ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 📗 AI Academic Portfolio : https://eportfolio.mygreatlearning.com/rini-susan-vijayakumar-senlakumari
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
 
