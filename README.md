@@ -15,7 +15,9 @@
 
 
 ##  🎙️ Conference
-   -   Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+   -  Speaker & Paper presenter at Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+## 🏆 Community Engagements / Recognitions
+   -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track.
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
@@ -26,8 +28,7 @@
 ##  🕸️ Hackathons
    - Devpost : https://devpost.com/rinisvs
    - Kaggle : https://www.kaggle.com/rinisvs
-##  🏆 Honors & Awards 
-   - Speaker at 42nd Pacific Northwest Software Quality Conference [2024] : https://pnsqc.org/rini_susan_v_s_2024.php
+##  🏅 Awards 
    - Finalist of 'The RisingSTAR Award' at EuroSTAR Conference [2024] : https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2024/
    - Bonus Blog Post Award in 'PartyRock Generative AI Hackathon' by Amazon Web Services [2024] : https://devpost.com/software/curious_techie
    - First Prize in Writer's Bloc 2014, [a technical writing competition held by the Infosys Knowledge Management team] at Infosys Trivandrum Development Center
