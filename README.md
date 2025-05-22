@@ -23,6 +23,7 @@
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
    - AWS Community Blog : https://community.aws/content/2cQ88tNcMrdqc3AN99VxELlZQDu/everyday-senior-companion
    - Medium Blogs : https://medium.com/@rinisusan.vs
+   - DEV.to Blogs : https://dev.to/rinisvs
 ##  🎙️ Opensource Contributions
    -   Postman API tool - performance testing feature enhancement: https://github.com/postmanlabs/postman-app-support/issues/12744
 ##  🕸️ Hackathons
