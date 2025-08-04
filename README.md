@@ -17,7 +17,7 @@
 ##  🎙️ Conference
    -  Speaker & Paper presenter at Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
 ## 🏆 Community Engagements / Recognitions
-   -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track.
+   -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track - https://builder.aws.com/community/@rinisvs
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
