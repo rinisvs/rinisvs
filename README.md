@@ -40,14 +40,14 @@
      Most Valuable Player Award [2015] | Team Player Award [2012] 
 
 ##  ⚡ Interests:
-   - 🖋️ Blogging -
+   - 🖋️ Blogging 
         - Medium : https://medium.com/@rinisusan.vs
         - AWS Builder : https://builder.aws.com/community/@rinisvs
         - Dev.to : https://dev.to/rinisvs
-  - 📹 Photography - 
+  - 📹 Photography  
        - Canva: https://rinisvs.my.canva.site/
        - Unsplash : https://unsplash.com/@rinisvs
-  - 🪡 Crocheting -
-    Instagram : https://www.instagram.com/rinisvs
+  - 🪡 Crocheting 
+       - Instagram : https://www.instagram.com/rinisvs
      
 
