@@ -45,8 +45,8 @@
         - AWS Builder : https://builder.aws.com/community/@rinisvs
         - Dev.to : https://dev.to/rinisvs
   - 📹 Photography - 
-    Canva: https://rinisvs.my.canva.site/ ,
-    Unsplash : https://unsplash.com/@rinisvs
+       - Canva: https://rinisvs.my.canva.site/
+       - Unsplash : https://unsplash.com/@rinisvs
   - 🪡 Crocheting -
     Instagram : https://www.instagram.com/rinisvs
      
