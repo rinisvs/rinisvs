@@ -42,6 +42,7 @@
 ##  ⚡ Interests:
    - 🖋️ Blogging -
      Medium : https://medium.com/@rinisusan.vs
+     AWS Builder : https://builder.aws.com/community/@rinisvs
      Dev.to : https://dev.to/rinisvs
   - 📹 Photography - 
     Canva: https://rinisvs.my.canva.site/ ,
