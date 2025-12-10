@@ -30,7 +30,8 @@
    - Devpost : https://devpost.com/rinisvs
    - Kaggle : https://www.kaggle.com/rinisvs
 ##  🏅 Awards 
-   - Contestant in the ‘Road to Re:Invent’ first road trip hackthon by Amazon Web Services [2025] : https://builder.aws.com/content/34Csyog3PatZ53qAxoks0OHmD3q/how-to-win-before-you-write-any-code-the-4-ts-of-hackathon-prep | https://builder.aws.com/content/3515K374s531rNhcd2gu3HIV5BX/the-road-to-reinvent-hackathon-what-it-is-and-how-to-watch
+   - Contestant in the ‘Road to Re:Invent’ first road trip hackthon by Amazon Web Services [2025] : https://builder.aws.com/content/34Csyog3PatZ53qAxoks0OHmD3q/how-to-win-before-you-write-any-code-the-4-ts-of-hackathon-prep 
+   https://builder.aws.com/content/3515K374s531rNhcd2gu3HIV5BX/the-road-to-reinvent-hackathon-what-it-is-and-how-to-watch
    - Finalist of 'The RisingSTAR Award' at EuroSTAR Conference [2024] : https://huddle.eurostarsoftwaretesting.com/rising-star-finalists-2024/
    - Bonus Blog Post Award in 'PartyRock Generative AI Hackathon' by Amazon Web Services [2024] : https://devpost.com/software/curious_techie
    - First Prize in Writer's Bloc 2014, [a technical writing competition held by the Infosys Knowledge Management team] at Infosys Trivandrum Development Center
