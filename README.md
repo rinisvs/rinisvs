@@ -7,8 +7,8 @@
 -->
 
 - 🖥️ Software Quality Engineering professional specialized in Performance Testing and Engineering
-- 🌱 Interested in continuous learning and exploring the field of Artificial Intelligence
-- 🔭 Currently into Machine Learning model evaluations and Generative AI projects
+- 🌱 Interested in continuous learning and exploring new technologies 
+- 🔭 Currently into Machine Learning model evaluations, Generative AI, and Edge Computing
 - ✍️ Contributes to technical content in the company portal, blogs, technical conferences, and external publications
 - 📗 AI Academic Portfolio : https://eportfolio.mygreatlearning.com/rini-susan-vijayakumar-senlakumari
 - 📫 Reach me @LinkedIn : https://www.linkedin.com/in/rinisusan/
