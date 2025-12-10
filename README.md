@@ -21,7 +21,7 @@
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
-   - AWS Community Blog : https://community.aws/content/2cQ88tNcMrdqc3AN99VxELlZQDu/everyday-senior-companion
+   - AWS Community Blogs : https://builder.aws.com/community/@rinisvs
    - Medium Blogs : https://medium.com/@rinisusan.vs
    - DEV.to Blogs : https://dev.to/aws-builders/amazon-nova-canvas-opening-up-new-canvases-3mgi
 ##  🎙️ Opensource Contributions
