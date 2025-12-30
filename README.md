@@ -15,7 +15,7 @@
 
 
 ##  🎙️ Conference
-   -  Speaker & Paper presenter at Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
+   -  Presented technical paper at Pacific Northwest Software Quality Conference, 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
 ## 🏆 Community Engagements 
    -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track - https://builder.aws.com/community/@rinisvs
 ##  📖 Publications / Articles
