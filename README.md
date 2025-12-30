@@ -16,7 +16,7 @@
 
 ##  🎙️ Conference
    -  Speaker & Paper presenter at Pacific Northwest Software Quality Conference 2024 : https://pnsqc.org/rini_susan_v_s_2024.php
-## 🏆 Community Engagements / Recognitions
+## 🏆 Community Engagements 
    -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track - https://builder.aws.com/community/@rinisvs
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
@@ -24,7 +24,10 @@
    - AWS Community Blogs : https://builder.aws.com/community/@rinisvs
    - Medium Blogs : https://medium.com/@rinisusan.vs
    - DEV.to Blogs : https://dev.to/aws-builders/amazon-nova-canvas-opening-up-new-canvases-3mgi
-##  🎙️ Opensource Contributions
+##  :star: Certifications
+   - AWS Certified Cloud Practitioner : https://www.credly.com/badges/605a7bf0-d18f-4f37-9f5b-049f85ab98b4
+   - EDGE AI : https://credsverse.com/credentials/b09c1f60-0dde-48a9-9898-2d7a83fa7d7e
+##  :bulb: Opensource Contributions
    -   Postman API tool - performance testing feature enhancement: https://github.com/postmanlabs/postman-app-support/issues/12744
 ##  🕸️ Hackathons
    - Devpost : https://devpost.com/rinisvs
@@ -37,7 +40,8 @@
    - Bonus Blog Post Award in 'PartyRock Generative AI Hackathon' by Amazon Web Services [2024] : https://devpost.com/software/curious_techie
    - First Prize in Writer's Bloc 2014, [a technical writing competition held by the Infosys Knowledge Management team] at Infosys Trivandrum Development Center
    - **Infosys Merit Awards**:  RISE Award for Hi-Flier at Onsite [2021] | IVS Spartan Award [2019] | IVS Insta Award [2018] | Zero Distance Innovation Award [2016] |
-     Most Valuable Player Award [2015] | Team Player Award [2012] 
+     Most Valuable Player Award [2015] | Team Player Award [2012]
+
 
 ##  ⚡ Interests:
    - 🖋️ Blogging 
