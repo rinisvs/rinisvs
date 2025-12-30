@@ -26,7 +26,7 @@
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
 ##  :star: Certifications
    - AWS Certified Cloud Practitioner : https://www.credly.com/badges/605a7bf0-d18f-4f37-9f5b-049f85ab98b4
-   - EDGE AI : https://credsverse.com/credentials/b09c1f60-0dde-48a9-9898-2d7a83fa7d7e
+   - EDGE AI Foundation : https://credsverse.com/credentials/b09c1f60-0dde-48a9-9898-2d7a83fa7d7e
 ##  :bulb: Opensource Contributions
    -   Postman API tool - performance testing feature enhancement: https://github.com/postmanlabs/postman-app-support/issues/12744
 ##  🕸️ Hackathons
