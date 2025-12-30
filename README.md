@@ -20,10 +20,10 @@
    -   AWS Community Builder : Selected as an AWS Community Builder in 2025 AI Engineering track - https://builder.aws.com/community/@rinisvs
 ##  📖 Publications / Articles
    - Software Testing Magazine : https://www.softwaretestingmagazine.com/tools/when-postman-goes-that-extra-mile-to-deliver-performance-to-apis/
-   - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
-   - AWS Community Blogs : https://builder.aws.com/community/@rinisvs
    - Medium Blogs : https://medium.com/@rinisusan.vs
-   - DEV.to Blogs : https://dev.to/aws-builders/amazon-nova-canvas-opening-up-new-canvases-3mgi
+   - AWS Community Blogs : https://builder.aws.com/community/@rinisvs
+   - DEV.to Blogs : https://dev.to/rinisvs
+   - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
 ##  :star: Certifications
    - AWS Certified Cloud Practitioner : https://www.credly.com/badges/605a7bf0-d18f-4f37-9f5b-049f85ab98b4
    - EDGE AI : https://credsverse.com/credentials/b09c1f60-0dde-48a9-9898-2d7a83fa7d7e
