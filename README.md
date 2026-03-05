@@ -25,6 +25,7 @@
    - DEV.to Blogs : https://dev.to/rinisvs
    - Developer.com : https://www.developer.com/java/building-a-test-platform-in-the-cloud-with-open-source-technologies/
 ##  :star: Certifications
+   - AWS Certified AI Practitioner : https://www.credly.com/badges/95ebd976-0aa4-44a6-a547-1786dbd5f5a6
    - AWS Certified Cloud Practitioner : https://www.credly.com/badges/605a7bf0-d18f-4f37-9f5b-049f85ab98b4
    - EDGE AI Foundation : https://credsverse.com/credentials/b09c1f60-0dde-48a9-9898-2d7a83fa7d7e
 ##  :bulb: Opensource Contributions
