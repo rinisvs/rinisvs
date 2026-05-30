@@ -52,7 +52,7 @@
 ##  ⚡ Interests:
    - 🖋️ Blogging 
         - Medium : https://medium.com/@rinisusan.vs
-        - AWS Builder : https://builder.aws.com/community/@rinisvs
+        - AWS Builder : https://builder.aws.com/community/@rinisvs?tab=badges
         - Dev.to : https://dev.to/rinisvs
   - 📹 Photography  
        - Canva: https://rinisvs.my.canva.site/
