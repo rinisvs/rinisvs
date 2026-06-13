@@ -54,11 +54,13 @@
 ##  ⚡ Interests:
    - 🖋️ Blogging 
         - Medium : https://medium.com/@rinisusan.vs
-        - AWS Builder : https://builder.aws.com/community/@rinisvs
         - Dev.to : https://dev.to/rinisvs
+        - AWS Builder : https://builder.aws.com/community/@rinisvs
   - 📹 Photography  
        - Canva: https://rinisvs.my.canva.site/
        - Unsplash : https://unsplash.com/@rinisvs
+       - Exhibition : Photograph selected for the Spring 2026 collaborative exhibition, themed "Where From / Where To?" at the de Saisset Museum, Santa Clara
+            - https://www.facebook.com/watch/?v=903461426029041
   - 🪡 Crocheting 
        - Instagram : https://www.instagram.com/rinisvs
      
