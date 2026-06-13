@@ -34,6 +34,8 @@
    - Devpost : https://devpost.com/rinisvs
    - Kaggle : https://www.kaggle.com/rinisvs
 ##  🏅 Awards 
+   - Winner of Google I/O 2026 Writing Challenge hosted by DEV Community [2026] : 
+      - https://dev.to/devteam/congrats-to-the-google-io-writing-challenge-winners-1364
    - Contestant in the ‘Road to Re:Invent’ first road trip hackthon by Amazon Web Services [2025] : 
       - https://builder.aws.com/content/34Csyog3PatZ53qAxoks0OHmD3q/how-to-win-before-you-write-any-code-the-4-ts-of-hackathon-prep 
       - https://builder.aws.com/content/3515K374s531rNhcd2gu3HIV5BX/the-road-to-reinvent-hackathon-what-it-is-and-how-to-watch
